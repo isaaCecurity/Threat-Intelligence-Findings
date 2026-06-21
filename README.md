@@ -22,22 +22,3 @@ This repository is designed to collect, analyze, and document current cybersecur
 3. summarize the relevance of the threat for defenders and operations teams
 4. keep the repository updated with concise, accurate write-ups that reflect current threat activity
 
-## Why This Matters for Employers
-Maintaining this repository shows an ability to:
-- stay current with the evolving threat landscape
-- interpret security research into actionable documentation
-- apply threat intelligence knowledge to real-world security posture improvements
-- present findings in a structured, professional way
-
-## Recommended Structure for Entries
-Each entry should include:
-- threat name or campaign
-- description and context
-- affected systems and components
-- tactics, techniques, and procedures (TTPs)
-- indicators of compromise (IoCs)
-- mitigation or detection guidance
-- sources and references
-
-## Next Steps
-Use this repository as a central location for threat research notes and documented investigations. Update entries regularly and reference real-world incidents, vendor reports, or advisory notices to show a growing and current understanding of cybersecurity risk.
